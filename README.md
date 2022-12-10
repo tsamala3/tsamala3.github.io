@@ -1,15 +1,25 @@
 # tsamala3.github.io
-<! DOCTYPE html>
+<!DOCTYPE html>
 <html>
-    <h1> Hello everyone my name is Trisha, Welcome!</h1>
-    <br>
-    <p> Choose one of the following to learn more about me.</p>
+<head>
+<style>
+body {
+  background-color: linen;
+}
 
-    # Hello Everyone my name is Trisha Samala. Welcome to my Markdown Website!
-    Choose one of the following to learn more!
-    + [Childhood](Childhood.md)
-    + [Hobbies](Hobbies.md)
-    + [School](School.md)
-    + [Goals](Goals.md)
+h1 {
+  color: maroon;
+  margin-left: 40px;
+}
+</style>
 
-    ![smile](jacob-vizek-ibvHQnpk4LE-unsplash.jpg)
+<body>
+<h1> Hello Everyone my name is Trisha Samala. Welcome to my Markdown Website!</h1>
+<div>
+<p> Choose one of the following to learn more!</p>
+<ul>
+  <li>Childhood</li>
+  <li>Hobbies</li>
+  <li>School</li>
+  <li>Goals</li>
+</ul>
